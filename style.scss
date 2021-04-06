@@ -1,0 +1,16 @@
+$couleur-h1: #AE484D;
+$couleur-partie: #C7BF99;
+$couleur-titre: #00688D;
+$couleur-corps: #DCA7CA;
+h1{
+  color : $couleur-h1;
+}
+.partie{
+  color : $couleur-partie;
+}
+.titre{
+  color : $couleur-titre
+}
+.corps{
+  color : $couleur-corps;
+}
